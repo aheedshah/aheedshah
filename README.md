@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aheedshah
-- 👀 I’m interested in working at someplace I can improve my skills as a developer and help the company reach its objectives.
+- 👀 I’m interested in working at someplace I can improve my skills as a developer and help the organisation reach its objectives.
 - 📫 How to reach me: Discord: @aheedshah#3380; email: aheed@duck.com
 - 📖 Currently studying Computer Science at Goldsmiths, University of London
 
