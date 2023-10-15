@@ -26,18 +26,19 @@
 -   💆‍♂️ Hobbies: Reading, Watching TV Shows and movies <br>
 
 <div align="center">
-    <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+    <h3> <strong> Languages, Frameworks, and Tools </strong></h3><hr>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,html,css,express,sass,tailwind,js,ts,react,java,py,firebase,mongodb,mysql,postman,gitlab,idea,mysql,vscode" alt="skills logos" />
     <br>
-    <h3> <strong> Actively Learning </strong></h3>
+    <h3> <strong> Actively Learning </strong></h3><hr>
     <img src="https://skillicons.dev/icons?i=cpp,aws" alt="skills actively learning logos">
     <br>
-    <h3> <strong> Planning to Learn </strong></h3>
+    <h3> <strong> Planning to Learn </strong></h3><hr>
     <img src="https://skillicons.dev/icons?i=docker,graphql,kubernetes" alt="skills planning to learn logos">
 </div>
 
 <div align="center">
   <h2 align="center">✉️ Contact</h2>
+<hr>
   <a href="https://www.linkedin.com/in/aheedshah/" target="_blank">
     <img src="./assets/linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
