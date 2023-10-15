@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./assets/coding.gif" alt="Banner" width="480"/>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+Aheed+and+welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+Aheed+and+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 [//]: # (<div align="center">)
 
@@ -47,4 +47,4 @@
   </a>
 </div>
 
-This theme is inspired from @godkingjay!
+<p align="center">This theme is inspired from @godkingjay!</p>
