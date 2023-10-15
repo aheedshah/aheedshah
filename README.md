@@ -38,11 +38,11 @@
 
 <div align="center">
   <h2 align="center">✉️ Contact</h2>
-  <a href="https://www.linkedin.com/in/jarriangojar/" target="_blank">
+  <a href="https://www.linkedin.com/in/aheedshah/" target="_blank">
     <img src="./assets/linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
-  <a href="https://discord.com/users/385102038087892992" target="_blank">
+  <a href="https://discord.com/users/aheedshah" target="_blank">
     <img src="./assets/discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
