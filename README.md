@@ -17,11 +17,11 @@
 
 <h2 align="center">Recent CS Grad and passionate for coding</h2><br>
 
--   👋 Hi, I'm Aheed, a recent CS Grad and passionate for coding. <br><br>
+-   👋 Hi, I'm Aheed, a recent CS Grad and passionate about coding. <br><br>
 
--   🌳 I’m currently learning AWS and C++ <br><br>
+-   🌳 I’m currently learning AWS, Docker and Kubernetes <br><br>
 
--   👀 I’m interested in working at different cool projects so if you have an idea, please don't hesitate to hit me up! <br><br>
+-   👀 I’m interested in working on different cool projects so if you have an idea, please don't hesitate to contact me! <br><br>
 
 -   💆‍♂️ Hobbies: Reading, Watching TV Shows and movies <br>
 
